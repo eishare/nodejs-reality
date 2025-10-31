@@ -21,4 +21,4 @@ bash -c "$(curl -L https://raw.githubusercontent.com/eooce/scripts/master/test.s
 ```
 NEZHA_SERVER=nz.abcd.com NEZHA_PORT=5555 NEZHA_KEY=1234abcd PORT=5678 bash -c "$(curl -L https://raw.githubusercontent.com/eooce/scripts/master/test.sh)"  
 ```
-[进入 python 文件夹](./nodejs-reality/tree/main/python)
+[一键直达](./nodejs-reality/tree/main/python)
